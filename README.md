@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about the world of biochemistry and
 ## 🌐 Connect with Me
 
 - 📫 Email: mayacarter@lcorpnow.com
-- 💼 LinkedIn: [Jasmine Williams](https://www.linkedin.com/in/mayacarter)
+- 💼 LinkedIn: [Maya Carter](https://www.linkedin.com/in/mayacarter)
 - 🌐 Personal Website: [www.mayacarter.com](https://www.mayainbio.com)
 
 ## 🌱 Current Projects
