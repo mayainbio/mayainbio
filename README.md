@@ -42,6 +42,6 @@ I believe in continuous learning, and I'm always excited to explore new areas of
 
 ## 📈 GitHub Stats
 
-[![Jasmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminewilliams&show_icons=true&theme=radical)](https://github.com/mayainbio)
+[![Maya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayainbio&show_icons=true&theme=radical)](https://github.com/mayainbio)
 
 Feel free to reach out if you want to collaborate on a project, discuss science, or just have a chat. Let's explore the wonders of the scientific world together! 🌟
