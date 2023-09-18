@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about the world of biochemistry and
 ## 🌐 Connect with Me
 
 - 📫 Email: mayacarter@lcorpnow.com
-- 💼 LinkedIn: [Jasmine Williams](https://www.linkedin.com/in/jasminewilliams)
-- 🌐 Personal Website: [www.jasminewilliams.com](https://www.jasminewilliams.com)
+- 💼 LinkedIn: [Jasmine Williams](https://www.linkedin.com/in/mayacarter)
+- 🌐 Personal Website: [www.mayacarter.com](https://www.mayainbio.com)
 
 ## 🌱 Current Projects
 
@@ -42,6 +42,6 @@ I believe in continuous learning, and I'm always excited to explore new areas of
 
 ## 📈 GitHub Stats
 
-[![Jasmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminewilliams&show_icons=true&theme=radical)](https://github.com/jasminewilliams)
+[![Jasmine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminewilliams&show_icons=true&theme=radical)](https://github.com/mayainbio)
 
 Feel free to reach out if you want to collaborate on a project, discuss science, or just have a chat. Let's explore the wonders of the scientific world together! 🌟
